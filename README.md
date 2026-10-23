@@ -18,12 +18,12 @@
 
 ## 🚀 About Me
 
-I am a Software Engineer with **6+ years of experience** leading the delivery of high-availability, production platforms—ranging from **ISO 27001-certified aviation asset management** to **retail banking** and **multi-tenant SaaS ecosystems**. 
+I am a Software Engineer with **6+ years of experience** leading the delivery of high-availability, production platforms—ranging from **ISO 27001-certified enterprise applications** to **retail banking solutions** and **multi-tenant SaaS ecosystems**.
 
-- 🛡️ **Current Focus:** Tech Lead for an ISO 27001 aviation asset management platform (Asterias) used by major airlines (IndiGo).
+- 🛡️ **Tech Leadership:** Client-facing Tech Lead designing enterprise systems under ISO 27001 security standards, focusing on RBAC, SAML 2.0/SCIM 2.0 IAM, and audit compliance.
 - 🏢 **Entrepreneurship:** Founder & Lead Architect at **ASTRAIONCODE LTD (UK)**. Built, scaled, and successfully bootstrapped and sold a SaaS product with full technical handover.
-- 🎓 **Educator:** Instructor & Platform Engineer at Semos Education, teaching advanced JS, React, and Node.js to aspiring engineers and building enterprise LMS platforms.
-- 📱 **Specialization:** End-to-end full-stack systems, multi-tenant backend design, zero-downtime CI/CD, and brownfield React Native mobile integrations.
+- 🎓 **Educator & Mentor:** Instructor delivering advanced JavaScript, React, and Node.js curricula to engineering cohorts, while building custom enterprise learning tools.
+- 📱 **Specialization:** End-to-end full-stack systems, multi-tenant backend design, zero-downtime CI/CD, and brownfield React Native integrations into native iOS & Android apps.
 
 ---
 
@@ -68,7 +68,7 @@ I am a Software Engineer with **6+ years of experience** leading the delivery of
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%"><strong>Security & Auth</strong></td>
+    <td align="center" width="20%"><strong>Security & Governance</strong></td>
     <td>
       <img src="https://img.shields.io/badge/ISO_27001-003366?style=flat-square&logo=iso&logoColor=white" />
       <img src="https://img.shields.io/badge/SAML_2.0-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -89,19 +89,18 @@ I am a Software Engineer with **6+ years of experience** leading the delivery of
 
 ---
 
-## 💼 Products & Highlights
+## 💼 Core Achievements & Focus
 
-### ⚡ Owned Products
-* 🏨 **[Detalica](https://detalica.com)** - HORECA venue management SaaS live in production with paying venues.
-* 📍 **[Mapiks](https://mapiks.com)** - Interactive regional map and local events platform.
-* 🛷 **[Slidemania](https://slidemania.mk)** - Custom booking & management platform.
-* 🏢 **[AstraionCode](https://astraioncode.com)** - Consultancy client portal with custom automated billing & settlement.
+### 🌐 Products & Platforms
+* 🏨 **[Detalica](https://detalica.com)** — HORECA venue management SaaS live in production with paying venues.
+* 📍 **[Mapiks](https://mapiks.com)** — Regional map and live event discovery platform.
+* 🛷 **[Slidemania](https://slidemania.mk)** — Custom booking and management engine.
+* 🏢 **[AstraionCode](https://astraioncode.com)** — Practice portal featuring automated client billing and settlement systems.
 
-### 💼 Major Client Work
-* ✈️ **Asterias Aviation Platform (IndiGo):** Enterprise fleet asset management, SAML 2.0/SCIM 2.0 IAM, and ISO 27001 compliance.
-* 🏦 **Raiffeisen Bank:** Mobile architecture consultation for brownfield React Native integration into native iOS (Swift) & Android (Kotlin) apps.
-* 🎟️ **[Tixlyapp](https://tixlyapp.com):** Event ticketing ecosystem with web, vendor, and scanner mobile apps on App Store & Google Play.
-* 📚 **[Semos AI Learning Platform](https://aiplatform.semosedu.com):** Custom enterprise LMS for cohorts, course management, and progress assessment.
+### ⚙️ Enterprise Client Engineering
+* 🛡️ **Regulated Asset Management Platform:** Led technical architecture and delivery of an ISO 27001 compliant platform featuring multi-tenant IAM, SAML 2.0 SSO, and SCIM 2.0 provisioning.
+* 🏦 **Mobile Architecture Consulting (Banking):** Architected brownfield React Native integration into production Kotlin (Android) and Swift (iOS) banking apps with full bidirectional bridge communication.
+* 🎟️ **[Tixlyapp](https://tixlyapp.com):** Multi-app event ticketing system spanning web platforms and iOS/Android scanning applications.
 
 ---
 
